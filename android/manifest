@@ -15,4 +15,4 @@ name: ti.bottomNavView
 moduleid: ti.bottomNavView
 guid: f5a22dff-97c7-4c66-bc3f-f5370501489e
 platform: android
-minsdk: 11.0.0.GA
+minsdk: 9.0.0.GA
