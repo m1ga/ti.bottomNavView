@@ -53,3 +53,11 @@ function onOpenTabs(e) {
 
 $.tabgroup.open();
 ```
+
+## Hyperloop
+For a hyperloop version check https://github.com/tidev/titanium_mobile/discussions/13423
+
+
+## Author
+
+- Michael Gangolf ([@MichaelGangolf](https://twitter.com/MichaelGangolf) / [Web](http://migaweb.de)) <span class="badge-buymeacoffee"><a href="https://www.buymeacoffee.com/miga" title="donate"><img src="https://img.shields.io/badge/buy%20me%20a%20coke-donate-orange.svg" alt="Buy Me A Coke donate button" /></a></span>
